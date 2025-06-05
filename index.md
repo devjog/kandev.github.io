@@ -10,3 +10,5 @@ Tu trzymam moje techniczne notatki i komendy.
 
 ```bash
 ./gradlew clean build
+
+./gradlew testDebugUnitTest --info
